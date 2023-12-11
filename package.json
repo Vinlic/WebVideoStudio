@@ -1,0 +1,23 @@
+{
+  "name": "web-video-studio",
+  "version": "0.0.1",
+  "description": "An experimental toolkit that produces and exports videos based on WebVideoCreator and LLM large model-driven tool chains.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinlic/WebVideoStudio.git"
+  },
+  "author": "Vinlic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinlic/WebVideoStudio/issues"
+  },
+  "homepage": "https://github.com/Vinlic/WebVideoStudio#readme",
+  "dependencies": {
+    "web-video-creator": "^0.0.32"
+  }
+}
