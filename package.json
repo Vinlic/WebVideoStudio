@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Vinlic/WebVideoStudio#readme",
   "dependencies": {
+    "@azure/openai": "^1.0.0-beta.8",
+    "eventsource-parser": "^1.1.1",
+    "tiktoken": "^1.0.11",
     "web-video-creator": "^0.0.32"
   }
 }
